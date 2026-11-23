@@ -15,7 +15,7 @@ Code for Frequency-Temporal Multi-Representation Learning Combines Feature Align
 └── requirements.txt                       # Package dependencies
 ```
 # Environmet
-PyTorch 2.1.2
-Python 3.10
-CUDA 11.8
-NVIDIA RTX 4090 GPU (24 GB memory)
+- PyTorch: 2.1.2
+- Python: 3.10
+- CUDA: 11.8
+- GPU: NVIDIA RTX 4090 (24 GB memory)
