@@ -14,7 +14,6 @@ Code for Frequency-Temporal Multi-Representation Learning Combines Feature Align
 │   └── train.py                          # Training script
 ├── README.md
 └── requirements.txt                       # Package dependencies
-
 ```
 
 # Environmet
