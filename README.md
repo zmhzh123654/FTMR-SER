@@ -3,17 +3,18 @@ Code for Frequency-Temporal Multi-Representation Learning Combines Feature Align
 # File system
 ## File system
 ```
-FTMR-SER
-├── models
-│   └── transformers_encoder
-│       ├── multihead_attention.py        # Multi-head attention module
-│       ├── position_embedding.py         # Positional embedding
-│       └── transformer.py                # Transformer block
-├── ser_model.py                           # SER model definition
-├── data_utils.py                          # Data loading and preprocessing
-├── train.py                               # Training script
-├── requirements.txt                       # Package dependencies
-└── README.md
+├── FTMR-SER
+│   ├── models
+│   │   └── transformers_encoder
+│   │       ├── multihead_attention.py    # Multi-head attention module
+│   │       ├── position_embedding.py     # Positional embedding
+│   │       └── transformer.py            # Transformer block
+│   ├── ser_model.py                      # SER model definition
+│   ├── data_utils.py                     # Data loading and preprocessing
+│   └── train.py                          # Training script
+├── README.md
+└── requirements.txt                       # Package dependencies
+
 ```
 
 # Environmet
