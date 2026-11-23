@@ -1,7 +1,6 @@
 # FTMR-SER
 Code for Frequency-Temporal Multi-Representation Learning Combines Feature Alignment and Self-Distillation for Speech Emotion Recognition
 # File system
-## File system
 ```
 ├── FTMR-SER
 │   ├── models
@@ -15,7 +14,6 @@ Code for Frequency-Temporal Multi-Representation Learning Combines Feature Align
 ├── README.md
 └── requirements.txt                       # Package dependencies
 ```
-
 # Environmet
 PyTorch 2.1.2
 Python 3.10
